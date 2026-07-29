@@ -71,7 +71,7 @@ quiz-exam-system/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/quiz-exam-system.git
+git clone https://github.com/harsh25120/quiz-exam-system.git
 cd quiz-exam-system
 ```
 
